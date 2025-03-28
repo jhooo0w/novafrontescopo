@@ -54,10 +54,9 @@ O site é totalmente responsivo e otimizado para:
 
 ## 📞 Contato
 
-- WhatsApp: [Solicitar Orçamento](https://wa.me/1234567890)
-- Email: contato@novafront.com
-- Instagram: [@novafront](https://instagram.com/novafront)
-- GitHub: [NovaFront](https://github.com/novafront)
+- WhatsApp: [Solicitar Orçamento](https://wa.me/11962619817)
+- Email: novafrontbr@outlook.com
+- Instagram: [@novafront](https://instagram.com/novafrontbr)
 
 ## 📄 Licença
 
