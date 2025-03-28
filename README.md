@@ -1,6 +1,6 @@
 # NovaFront - Agência de Landing Pages
 
-![NovaFront Banner](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![NovaFront Banner](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80)
 
 ## 📋 Sobre o Projeto
 
@@ -17,11 +17,11 @@ NovaFront é uma agência especializada na criação de Landing Pages de alta co
 
 ## 🚀 Tecnologias Utilizadas
 
-- [React](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Vite](https://vitejs.dev/)
-- [Lucide React](https://lucide.dev/)
+- HTML5
+- CSS3
+- JavaScript
+- [AOS (Animate on Scroll)](https://michalsnik.github.io/aos/)
+- [Swiper](https://swiperjs.com/)
 
 ## 🛠️ Instalação
 
@@ -32,19 +32,8 @@ git clone https://github.com/seu-usuario/novafront.git
 # Entre no diretório
 cd novafront
 
-# Instale as dependências
-npm install
-
-# Inicie o servidor de desenvolvimento
-npm run dev
+# Abra o arquivo index.html no seu navegador
 ```
-
-## 📦 Scripts Disponíveis
-
-- `npm run dev` - Inicia o servidor de desenvolvimento
-- `npm run build` - Cria a versão de produção
-- `npm run preview` - Visualiza a versão de produção localmente
-- `npm run lint` - Executa a verificação de linting
 
 ## 🌐 Estrutura do Site
 
